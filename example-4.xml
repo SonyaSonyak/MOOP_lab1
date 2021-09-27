@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<FoodShop>
+    <category id="1" name="Meat">
+        <products groceryStore="Changed Grocery Store" id="1" name="Turkey"/>
+    </category>
+    <category id="2" name="Dairy products">
+        <products groceryStore="Novus" id="2" name="Milk"/>
+        <products groceryStore="Novus" id="3" name="Yogurt"/>
+    </category>
+</FoodShop>
